@@ -54,4 +54,3 @@ O modelo de dados é composto pelas seguintes tabelas e seus relacionamentos:
 *   **Tabelas Associativas (N:M):** `ITEM_GENERO` (Item de Mídia e Gênero) e `ITEM_AUTOR` (Item de Mídia e Autor/Criador).
 *   **Relacionamento Chave:** A tabela `ACOMPANHAMENTO` conecta `USUARIO` e `ITEM_MIDIA`, registrando o status de consumo, nota e datas.
 
-Este modelo está em conformidade com a Terceira Forma Normal (3FN), conforme detalhado nas atividades anteriores.
